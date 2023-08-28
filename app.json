@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8feb74d7-1a9f-4088-b0b3-373cb42b9f85"
+      }
+    },
+    "owner": "emrecoskun"
   }
 }
